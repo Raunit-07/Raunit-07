@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Web Development projects and improving my development skills by making new real world projects .<br>👯 I’m looking to collaborate on Web Development, Shopify stores, and AI-based projects <br>🤝 I’m looking for help with advanced backend development, system design, and scaling real-world applications<br>🌱 I’m currently learning Desiging, React concepts, APIs, and Generative AI<br>💬 Ask me about React.js, Shopify, JavaScript, SEO, HTML/CSS, SQL and Problem Solving<br>⚡ Fun fact: I enjoy turning ideas into real projects and I can spend hours debugging code just to make things work perfectly 😄
+🔭 I’m currently working on Full Stack Web Development projects and improving my development skills by making new real world projects .<br>👯 I’m looking to collaborate on Web Development, Shopify stores, and AI-based projects <br>🤝 I’m looking for help with backend development, system design,UI upscaling and scaling real-world applications<br>🌱 I’m currently learning Desiging, React concepts, APIs, and Generative AI<br>💬 Ask me about React.js, Shopify, JavaScript, SEO, HTML/CSS, SQL and Problem Solving<br>⚡ Fun fact: I enjoy turning ideas into real projects and I can spend hours debugging code just to make things work perfectly 😄
 
 
 ## 🌐 Socials:
